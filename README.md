@@ -1,4 +1,3 @@
-//Luis was here
 # C-Code-Obfuscator
 #### Developed by: Sam "Alice" Blair, Winston Howard, Chance Sweetser
 ## Summary
